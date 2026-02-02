@@ -1,60 +1,66 @@
-# 📊 Sales & Finance Analytics Dashboard
+# 📊 AtliQ Reports – Excel Pivot Table Analysis
 
-## 🔹 Sales Report
+## 📌 Project Overview
+AtliQ Reports is an **Excel-based data analysis project** created using **Pivot Tables, Pivot Charts, and Excel formulas** to analyze sales, customer performance, and financial results.
 
-### **Project Goals**
-1. Develop a comprehensive **Customer Performance Dashboard** to analyze customer revenue, order trends, and profitability.  
-2. Create a **Market Performance vs Target Report** to compare actual sales with business expectations.
-
-### **Why Sales Analytics?**
-Sales analytics helps organizations evaluate performance, understand customer behavior, and make informed revenue-driven decisions.
-
-### **Why Sales Data Analysis Matters**
-- Identifies recurring sales patterns  
-- Helps track essential KPIs  
-- Supports strategic sales planning  
-
-### **Role of These Reports**
-- Optimizing discount strategies  
-- Facilitating better customer negotiations  
-- Recognizing high-potential markets for business expansion  
+This project focuses on converting raw business data into **clear, structured, and decision-ready reports** for sales and finance teams.
 
 ---
 
-## 💰 Finance Report
+## 🎯 Project Objectives
 
-### **Project Goals**
-1. Build structured P&L (Profit & Loss) reports categorized by **Fiscal Year** and **Monthly periods**.  
-2. Create market-wise P&L statements to evaluate profitability across regions.
+### 🔹 Sales Analysis
 
-### **Purpose of Finance Analytics**
-Finance analytics brings clarity to profitability, helps control costs, and supports long-term planning.
+**Customer Performance Report**
+- Analyzed customer-wise sales performance over multiple years
+- Identified growth trends and contribution percentages
+- Highlighted top-performing and low-performing customers
 
-### **Importance of Finance Data Analysis**
-- Enables comparison against historical data and industry benchmarks  
-- Forms the basis of budgeting and forecasting  
-- Strengthens transparency in financial reporting  
-
-### **Role of These Reports**
-- Align financial decisions with business goals  
-- Improve leadership confidence with accurate insights  
-- Support better planning and communication with stakeholders  
+**Market Performance vs Sales Targets**
+- Compared actual sales against assigned targets
+- Identified target gaps and overachievement areas
+- Evaluated market-wise sales effectiveness
 
 ---
 
-## 🛠 Technical Skills Demonstrated
-- [x] ETL (Extract – Transform – Load) processes  
-- [x] Building date tables with Power Query  
-- [x] Creating fiscal months and quarters  
-- [x] Designing data models using Power Pivot  
-- [x] Merging additional datasets into existing models  
-- [x] Writing DAX-based calculated fields  
+### 🔹 Finance Analysis
+
+**Profit & Loss (P&L) Reports**
+- Created P&L reports by fiscal year and monthly trends
+- Developed market-wise P&L analysis
+- Enabled comparison across different periods and regions
 
 ---
 
-## 🤝 Soft Skills Demonstrated
-- [x] Understanding of sales & finance analytics workflows  
-- [x] Designing dashboards for better user experience  
-- [x] Improving report generation efficiency  
-- [x] Following a structured approach to dashboard planning  
+## 🛠️ Tools & Skills Used
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Power Query (ETL in Excel)
+- Excel Functions (SUMIFS, IF, VLOOKUP / XLOOKUP)
+- Slicers & Filters for interactivity
 
+---
+
+## 🧠 Key Learnings
+
+### Technical Skills
+- Cleaned and transformed raw data using Power Query
+- Built dynamic pivot tables for multi-dimensional analysis
+- Created fiscal year and month-based reports
+- Designed interactive Excel dashboards using slicers
+
+### Analytical & Business Skills
+- Improved understanding of sales and financial KPIs
+- Learned to structure reports for business users
+- Enhanced data interpretation and storytelling skills
+
+---
+
+## 📈 Business Value
+- Quick visibility into customer and market performance
+- Easy tracking of actual vs target sales
+- Faster financial review using structured Excel reports
+
+---
+
+## 📂 Repository Structure
