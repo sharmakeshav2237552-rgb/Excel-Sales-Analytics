@@ -64,3 +64,10 @@ This project focuses on converting raw business data into **clear, structured, a
 ---
 
 ## 📂 Report Links
+<a href = "https://github.com/sharmakeshav2237552-rgb/Excel-Sales-Analytics/blob/main/customer_performance_page.pdf">Customer Performance Report</a>
+
+<a href = "https://github.com/sharmakeshav2237552-rgb/Excel-Sales-Analytics/blob/main/AtliQ%20Market%20Performance%20Report.pdf">Market Performance and Sales Targets Comparison Report</a>
+
+<a href = "https://github.com/sharmakeshav2237552-rgb/Excel-Sales-Analytics/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf">Profit and Loss(P&l) Report by Fiscal Year and Months</a>
+
+<a href = "https://github.com/sharmakeshav2237552-rgb/Excel-Sales-Analytics/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf">Profit and Loss(P&L) Reports by Markets</a>
